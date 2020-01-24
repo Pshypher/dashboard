@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#E3261A</color>
+
+    <color name="widget_item_background">#50657F</color>
+    <color name="home_screen_background">#0B0713</color>
+    <color name="subtitle">#BAB9CA</color>
+    <color name="notification">#E1DFEA</color>
+</resources>
+
